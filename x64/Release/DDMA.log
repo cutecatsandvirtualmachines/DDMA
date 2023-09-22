@@ -1,6 +1,0 @@
-﻿  Building 'DDMA' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
-  main.cpp
-  DDMA.vcxproj -> C:\Users\sbombolante\Documents\GitHub\DDMA\x64\Release\DDMA.sys
-  Driver is 'Universal'.
-  Inf2Cat task was skipped as there were no inf files to process
-  
